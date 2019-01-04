@@ -12,16 +12,8 @@ File Encoding         : 65001
 
 Date: 2018-01-28 00:29:34
 */
-<<<<<<< HEAD
---加了一行注释，测试远程仓库
-=======
---测试
->>>>>>> upstream/master
-
---远程仓库加一行注释
 
 SET FOREIGN_KEY_CHECKS=0;
---本地仓库加一行注释
 -- ----------------------------
 -- Table structure for order_detail
 -- ----------------------------
