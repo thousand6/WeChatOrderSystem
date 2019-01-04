@@ -12,7 +12,7 @@ File Encoding         : 65001
 
 Date: 2018-01-28 00:29:34
 */
-
+--伺机待发哈克手机电话费卡是分开
 SET FOREIGN_KEY_CHECKS=0;
 -- ----------------------------
 -- Table structure for order_detail
