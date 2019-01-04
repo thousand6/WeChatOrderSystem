@@ -18,7 +18,7 @@ Date: 2018-01-28 00:29:34
 --测试
 >>>>>>> upstream/master
 SET FOREIGN_KEY_CHECKS=0;
-
+--本地仓库加一行注释
 -- ----------------------------
 -- Table structure for order_detail
 -- ----------------------------
